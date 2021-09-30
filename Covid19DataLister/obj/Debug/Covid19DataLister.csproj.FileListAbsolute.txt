@@ -1,0 +1,9 @@
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\Covid19DataLister\Covid19DataLister\obj\Debug\Covid19DataLister.MainForm.resources
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\Covid19DataLister\Covid19DataLister\obj\Debug\Covid19DataLister.csproj.GenerateResource.Cache
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\Covid19DataLister\Covid19DataLister\bin\Debug\Covid19DataLister.exe.config
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\Covid19DataLister\Covid19DataLister\bin\Debug\Covid19DataLister.exe
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\Covid19DataLister\Covid19DataLister\bin\Debug\Covid19DataLister.pdb
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\Covid19DataLister\Covid19DataLister\obj\Debug\Covid19DataLister.exe
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\Covid19DataLister\Covid19DataLister\obj\Debug\Covid19DataLister.pdb
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\Covid19DataLister\Covid19DataLister\obj\Debug\Covid19DataLister.csproj.AssemblyReference.cache
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\Covid19DataLister\Covid19DataLister\obj\Debug\Covid19DataLister.csproj.CoreCompileInputs.cache
